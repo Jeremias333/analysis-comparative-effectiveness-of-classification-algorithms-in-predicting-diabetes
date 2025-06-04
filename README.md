@@ -10,7 +10,7 @@
 
 
 ## Recursos para análise utilizados
-- Artigo: Comparative Effectiveness of Classification Algorithms in Predicting Diabetes (https://ieeexplore.ieee.org/document/10847398/authors#authors)
+- Artigo: [Comparative Effectiveness of Classification Algorithms in Predicting Diabetes](https://ieeexplore.ieee.org/document/10847398/authors#authors)
 - Dataset: [https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset-legit-dataset](url) 
 
 
