@@ -2,7 +2,7 @@
 
 ## Membros
 - Jeremias Oliveira (@jeremias333)
-- David Ian (@)
+- David Ian (@Davidian19)
 
 ## Informações institucionais
 - **Aprendizado de Máquina - 2025.1.**
